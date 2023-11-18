@@ -33,7 +33,4 @@ I am a Frontend developer who loves working with react and find innovative ways 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/yashpatil31/Hostlify_PBL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpatil31&repo=Hostlify_PBL&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yashpatil31/Data-Science-Salary-Prediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpatil31&repo=Data-Science-Salary-Prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
 <div width="100%" align="center"><a href="https://github.com/yashpatil31/getNews" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpatil31&repo=getNews&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/yashpatil31/NotesApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yashpatil31&repo=NotesApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
